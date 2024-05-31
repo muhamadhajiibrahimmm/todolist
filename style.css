@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Box{
+    background-color: burlywood;
+    width: 450px;
+    height: 500px;
+    outline: thick ridge black;
+    border-radius: 5px;
+}
+
+.Tanggal{
+    width: 50px;
+    outline: solid;
+    outline-color: rgb(0, 0, 0);
+    outline-width: thin;
+    border-radius: 5px;
+}
+
+.Tugas{
+    outline: solid;
+    outline-color: rgb(0, 0, 0);
+    outline-width: thin;
+    border-radius: 5px;
+}
+
+.submit{
+    outline: solid;
+    outline-color: rgb(0, 0, 0);
+    outline-width: thin;
+    border-radius: 5px;
+}
+
